@@ -1,6 +1,6 @@
 # JS_Drum_Kit
-A Simple KeyPad Drummer's Kit Using HTML, CSS, JS
-
+A Simple KeyPad Drummer's Kit Using HTML, CSS, JS<br>
+<br>
 I have learned to make it from Wes Bos course Javascript 30 Day Challenge<br>
 Credits : ![ @wesbos ]("https://twitter.com/wesbos)
 
